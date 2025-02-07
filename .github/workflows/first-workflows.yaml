@@ -25,4 +25,4 @@ jobs:
         run: write-output "Window-String"
 
       - name: Run multiline commands
-        run: doesnotexist
+        run: doesnote
